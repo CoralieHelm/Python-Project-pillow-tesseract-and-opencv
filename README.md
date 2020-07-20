@@ -1,0 +1,2 @@
+# Python-Project-pillow-tesseract-and-opencv
+This course features hands-on projects suitable for a portfolio. It is an introduction to third-party APIs and will be shown how to manipulate images using the Python imaging library (pillow), how to apply optical character recognition to images to recognize text (tesseract and py-tesseract), and how to identify faces in images using the popular opencv library. By the end of the course you will have worked with three different libraries available for Python 3 to create a real-world data-analysis project.
